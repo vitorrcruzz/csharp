@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_triangulo\calculo_triangulo\bin\Debug\calculo_triangulo.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_triangulo\calculo_triangulo\bin\Debug\calculo_triangulo.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_triangulo\calculo_triangulo\bin\Debug\calculo_triangulo.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_triangulo\calculo_triangulo\obj\Debug\calculo_triangulo.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_triangulo\calculo_triangulo\obj\Debug\calculo_triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_triangulo\calculo_triangulo\obj\Debug\calculo_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_triangulo\calculo_triangulo\obj\Debug\calculo_triangulo.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_triangulo\calculo_triangulo\obj\Debug\calculo_triangulo.pdb

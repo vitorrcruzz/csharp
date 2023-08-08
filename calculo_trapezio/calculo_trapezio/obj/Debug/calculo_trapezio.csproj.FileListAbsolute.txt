@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_trapezio\calculo_trapezio\bin\Debug\calculo_trapezio.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_trapezio\calculo_trapezio\bin\Debug\calculo_trapezio.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_trapezio\calculo_trapezio\bin\Debug\calculo_trapezio.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_trapezio\calculo_trapezio\obj\Debug\calculo_trapezio.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_trapezio\calculo_trapezio\obj\Debug\calculo_trapezio.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_trapezio\calculo_trapezio\obj\Debug\calculo_trapezio.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_trapezio\calculo_trapezio\obj\Debug\calculo_trapezio.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_trapezio\calculo_trapezio\obj\Debug\calculo_trapezio.pdb

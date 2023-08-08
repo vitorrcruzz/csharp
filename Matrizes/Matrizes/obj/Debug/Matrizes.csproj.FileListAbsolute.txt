@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\Matrizes\Matrizes\bin\Debug\Matrizes.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\Matrizes\Matrizes\bin\Debug\Matrizes.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\Matrizes\Matrizes\bin\Debug\Matrizes.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\Matrizes\Matrizes\obj\Debug\Matrizes.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\Matrizes\Matrizes\obj\Debug\Matrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\Matrizes\Matrizes\obj\Debug\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\Matrizes\Matrizes\obj\Debug\Matrizes.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\Matrizes\Matrizes\obj\Debug\Matrizes.pdb

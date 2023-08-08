@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculo_triangulo", "calculo_triangulo\calculo_triangulo.csproj", "{5AF2CB30-4EC6-4EF9-B738-01E71C60D56B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF2CB30-4EC6-4EF9-B738-01E71C60D56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF2CB30-4EC6-4EF9-B738-01E71C60D56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF2CB30-4EC6-4EF9-B738-01E71C60D56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF2CB30-4EC6-4EF9-B738-01E71C60D56B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B7E6D29-602A-4E7F-8B30-370BB92B2676}
+	EndGlobalSection
+EndGlobal

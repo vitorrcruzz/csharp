@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\vetores\vetores\bin\Debug\vetores.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\vetores\vetores\bin\Debug\vetores.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\vetores\vetores\bin\Debug\vetores.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\vetores\vetores\obj\Debug\vetores.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\vetores\vetores\obj\Debug\vetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\vetores\vetores\obj\Debug\vetores.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\vetores\vetores\obj\Debug\vetores.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\vetores\vetores\obj\Debug\vetores.pdb

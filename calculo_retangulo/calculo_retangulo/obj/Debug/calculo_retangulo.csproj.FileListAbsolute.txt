@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_retangulo\calculo_retangulo\bin\Debug\calculo_retangulo.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_retangulo\calculo_retangulo\bin\Debug\calculo_retangulo.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_retangulo\calculo_retangulo\bin\Debug\calculo_retangulo.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_retangulo\calculo_retangulo\obj\Debug\calculo_retangulo.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_retangulo\calculo_retangulo\obj\Debug\calculo_retangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_retangulo\calculo_retangulo\obj\Debug\calculo_retangulo.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_retangulo\calculo_retangulo\obj\Debug\calculo_retangulo.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\calculo_retangulo\calculo_retangulo\obj\Debug\calculo_retangulo.pdb
