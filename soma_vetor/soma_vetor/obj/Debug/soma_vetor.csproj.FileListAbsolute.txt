@@ -1,0 +1,16 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\soma_vetor\soma_vetor\obj\Debug\soma_vetor.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\soma_vetor\soma_vetor\obj\Debug\soma_vetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\soma_vetor\soma_vetor\obj\Debug\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\soma_vetor\soma_vetor\bin\Debug\soma_vetor.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\soma_vetor\soma_vetor\bin\Debug\soma_vetor.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\soma_vetor\soma_vetor\bin\Debug\soma_vetor.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\soma_vetor\soma_vetor\obj\Debug\soma_vetor.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\soma_vetor\soma_vetor\obj\Debug\soma_vetor.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\soma_vetor\soma_vetor\bin\Debug\soma_vetor.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\soma_vetor\soma_vetor\bin\Debug\soma_vetor.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\soma_vetor\soma_vetor\bin\Debug\soma_vetor.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\soma_vetor\soma_vetor\obj\Debug\soma_vetor.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\soma_vetor\soma_vetor\obj\Debug\soma_vetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\soma_vetor\soma_vetor\obj\Debug\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\soma_vetor\soma_vetor\obj\Debug\soma_vetor.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\soma_vetor\soma_vetor\obj\Debug\soma_vetor.pdb

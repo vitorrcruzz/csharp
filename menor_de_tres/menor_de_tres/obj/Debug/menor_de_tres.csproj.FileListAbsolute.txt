@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\menor_de_tres\menor_de_tres\bin\Debug\menor_de_tres.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\menor_de_tres\menor_de_tres\bin\Debug\menor_de_tres.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\menor_de_tres\menor_de_tres\bin\Debug\menor_de_tres.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.pdb

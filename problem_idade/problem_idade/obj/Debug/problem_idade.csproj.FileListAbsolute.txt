@@ -1,0 +1,16 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\problem_idade\problem_idade\bin\Debug\problem_idade.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\problem_idade\problem_idade\bin\Debug\problem_idade.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\problem_idade\problem_idade\bin\Debug\problem_idade.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\problem_idade\problem_idade\obj\Debug\problem_idade.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\problem_idade\problem_idade\obj\Debug\problem_idade.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\problem_idade\problem_idade\obj\Debug\problem_idade.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\problem_idade\problem_idade\obj\Debug\problem_idade.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\problem_idade\problem_idade\obj\Debug\problem_idade.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\atividades_csharp\problem_idade\problem_idade\bin\Debug\problem_idade.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\atividades_csharp\problem_idade\problem_idade\bin\Debug\problem_idade.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\atividades_csharp\problem_idade\problem_idade\bin\Debug\problem_idade.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\atividades_csharp\problem_idade\problem_idade\obj\Debug\problem_idade.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\atividades_csharp\problem_idade\problem_idade\obj\Debug\problem_idade.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\atividades_csharp\problem_idade\problem_idade\obj\Debug\problem_idade.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\atividades_csharp\problem_idade\problem_idade\obj\Debug\problem_idade.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\projetos\c#\atividades_csharp\problem_idade\problem_idade\obj\Debug\problem_idade.pdb

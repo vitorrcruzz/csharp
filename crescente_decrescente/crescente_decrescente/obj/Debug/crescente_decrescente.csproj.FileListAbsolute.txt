@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\crescente_decrescente\crescente_decrescente\bin\Debug\crescente_decrescente.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\crescente_decrescente\crescente_decrescente\bin\Debug\crescente_decrescente.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\crescente_decrescente\crescente_decrescente\bin\Debug\crescente_decrescente.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\crescente_decrescente\crescente_decrescente\obj\Debug\crescente_decrescente.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\crescente_decrescente\crescente_decrescente\obj\Debug\crescente_decrescente.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\crescente_decrescente\crescente_decrescente\obj\Debug\crescente_decrescente.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\crescente_decrescente\crescente_decrescente\obj\Debug\crescente_decrescente.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#\atividades_csharp\crescente_decrescente\crescente_decrescente\obj\Debug\crescente_decrescente.pdb
